@@ -19,6 +19,39 @@
         "body": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
       }
     ],
+
+    "dokter":[
+      {
+        "id": 1,
+        "nama": "alief",
+        "alamat": "a",
+        "telepon": "081",
+        "tempatPraktek": "Poli gizi",
+        "hariKerja":"",
+        "jamMulai":"",
+        "jamSelesai": ""
+      },
+      {
+        "id": 2,
+        "nama": "ba",
+        "alamat": "b",
+        "telepon": "087",
+        "tempatPraktek": "Poli anak",
+        "hariKerja":"",
+        "jamMulai":"",
+        "jamSelesai": ""
+      },
+      {
+        "id": 3,
+        "nama": "ta",
+        "alamat": "c",
+        "telepon": "089",
+        "tempatPraktek": "Poli gigi",
+        "hariKerja":"",
+        "jamMulai":"",
+        "jamSelesai": ""
+      }
+    ],
   
   
    
