@@ -52,6 +52,91 @@
         "jamSelesai": ""
       }
     ],
+
+    "pasien": [
+      {
+        "id": 1,
+        "nama": "aief",
+        "alamat": "a",
+        "telepon": "081",
+        "ttl": "Poli gizi",
+        "gender":"",
+        "tanggalDaftar":""
+      },
+      {
+        "id": 2,
+        "nama": "aloy",
+        "alamat": "a",
+        "telepon": "081",
+        "ttl": "Poli gizi",
+        "gender":"",
+        "tanggalDaftar":""
+      },
+      {
+        "id": 3,
+        "nama": "alasdef",
+        "alamat": "a",
+        "telepon": "081",
+        "ttl": "Poli gizi",
+        "gender":"",
+        "tanggalDaftar":""
+      }
+    ],
+
+    "pemeriksaan": [
+     { 
+       "passId": 1,
+        "id" :1,
+        "keluhan":"",
+        "diagnosa":"",
+        "perawatan":"",
+        "tindakan":"",
+        "beratBadan":"",
+        "tensiSistolik":"",
+        "tensiDiastolik":""
+      },
+      { 
+        "passId": 2,
+         "id" :2,
+         "keluhan":"",
+         "diagnosa":"",
+         "perawatan":"",
+         "tindakan":"",
+         "beratBadan":"",
+         "tensiSistolik":"",
+         "tensiDiastolik":""
+       },
+       { 
+        "passId": 3,
+         "id" :2,
+         "keluhan":"",
+         "diagnosa":"",
+         "perawatan":"",
+         "tindakan":"",
+         "beratBadan":"",
+         "tensiSistolik":"",
+         "tensiDiastolik":""
+       }
+    ],
+
+    "pendaftaran": [
+      {
+        "passId":1,
+        "id": 1,
+        "nama": "aief",
+        "nomorUrut": "a",
+        "biaya": "081"
+        
+      },
+      {
+        "passId":2,
+        "id": 2,
+        "nama": "aief",
+        "nomorUrut": "a",
+        "biaya": "081"
+        
+      }
+    ],
   
   
    
