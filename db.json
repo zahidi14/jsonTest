@@ -37,7 +37,7 @@
       {
         "daftarID" : 1,
         "id": 1,
-        "nama": "aief",
+       
         "alamat": "a",
         "telepon": "081",
         "ttl": "Poli gizi",
@@ -47,7 +47,7 @@
       {
         "daftarID" : 2,
         "id": 2,
-        "nama": "aloy",
+      
         "alamat": "a",
         "telepon": "081",
         "ttl": "Poli gizi",
@@ -57,7 +57,7 @@
       {
         "daftarID" : 3,
         "id": 3,
-        "nama": "alasdef",
+       
         "alamat": "a",
         "telepon": "081",
         "ttl": "Poli gizi",
