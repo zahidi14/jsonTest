@@ -65,7 +65,7 @@
 
     "pemeriksaan": [
      { 
-       "passId": 1,
+       "pasienId": 1,
         "id" :1,
         "keluhan":"",
         "diagnosa":"",
@@ -76,7 +76,7 @@
         "tensiDiastolik":""
       },
       { 
-        "passId": 2,
+        "pasienId": 2,
          "id" :2,
          "keluhan":"",
          "diagnosa":"",
@@ -87,7 +87,7 @@
          "tensiDiastolik":""
        },
        { 
-        "passId": 3,
+        "pasienId": 3,
          "id" :2,
          "keluhan":"",
          "diagnosa":"",
@@ -101,17 +101,17 @@
 
     "pendaftaran": [
       {
-        "passId":1,
+        "pasienId":1,
         "id": 1,
-        "nama": "aief",
+       
         "nomorUrut": "a",
         "biaya": "081"
         
       },
       {
-        "passId":2,
+        "pasienId":2,
         "id": 2,
-        "nama": "aief",
+      
         "nomorUrut": "a",
         "biaya": "081"
         
