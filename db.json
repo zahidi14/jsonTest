@@ -73,8 +73,7 @@
         "tindakan":"",
         "beratBadan":"",
         "tensiSistolik":"",
-        "tensiDiastolik":"",
-        "dokterId": 1
+        "tensiDiastolik":""
       },
       { 
         "pasienId": 2,
@@ -85,8 +84,7 @@
          "tindakan":"",
          "beratBadan":"",
          "tensiSistolik":"",
-         "tensiDiastolik":"",
-         "dokterId" : 1
+         "tensiDiastolik":""
        },
        { 
         "pasienId": 3,
@@ -97,8 +95,7 @@
          "tindakan":"",
          "beratBadan":"",
          "tensiSistolik":"",
-         "tensiDiastolik":"",
-         "dokterId":2
+         "tensiDiastolik":""
        }
     ],
 
@@ -108,15 +105,16 @@
         "id": 1,
        
         "nomorUrut": "a",
-        "biaya": "081"
-        
+        "biaya": "081",
+        "dokterId": 1
       },
       {
         "pasienId":2,
         "id": 2,
       
         "nomorUrut": "a",
-        "biaya": "081"
+        "biaya": "081",
+        "dokterId": 2
         
       }
     ]
