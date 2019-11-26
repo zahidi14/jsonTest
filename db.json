@@ -103,7 +103,7 @@
       {
         "pasienId":1,
         "id": 1,
-       
+        "tanggalDaftar":"",
         "nomorUrut": "a",
         "biaya": "081",
         "dokterId": 1
@@ -111,7 +111,7 @@
       {
         "pasienId":2,
         "id": 2,
-      
+        "tanggalDaftar":"",
         "nomorUrut": "a",
         "biaya": "081",
         "dokterId": 2
